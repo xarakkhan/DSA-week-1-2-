@@ -1,6 +1,3 @@
-Got it 👍 here’s a **short and simple README text** (no code, no run steps):
-
----
 
 # Grade Calculator
 
